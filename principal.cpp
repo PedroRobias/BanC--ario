@@ -1,3 +1,6 @@
+// ESSE É O CÓDIGO BRUTO, SEM PARTICIONAR
+
+
 #include <iostream>
 #include <string>
 
